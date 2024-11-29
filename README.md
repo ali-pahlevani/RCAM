@@ -8,3 +8,14 @@ In this project, the main goal, is math modeling a 6 degrees of freedom conventi
 
 ## Keywords
 **6-degrees of freedom flight simulation**, **adaptive flight control**, **flight simulation in MATLAB**, **aircraft control in Simulink**
+
+---
+## Climb Flight
+![image](https://github.com/user-attachments/assets/87ef5bdb-f0f6-4a2a-934e-79c5a9a37735)
+
+## Straight Flight
+![image](https://github.com/user-attachments/assets/f0723f1b-b691-4b5e-acf5-9e0d4f145cd1)
+
+## Pull-Up Flight
+![image](https://github.com/user-attachments/assets/75db4a98-b588-4693-9a79-c06f7e2aa5c1)
+
